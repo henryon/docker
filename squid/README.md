@@ -1,0 +1,1 @@
+docker build -it  squid /.
